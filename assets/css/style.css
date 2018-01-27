@@ -1,0 +1,42 @@
+.hidden {
+	visibility: collapse;
+}
+
+body {
+	background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/5LTJsFT/football-stadium-background-animation_4kiej7gr__F0000.png);
+}
+* {
+	color: white;
+	text-align: center;
+}
+
+#start {
+	color: black;
+}
+
+.answers {
+	color: black;
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+}
+
+#timer {
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	font-size: 70px;
+}
+#question {
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+}
+#options {
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+}
+
+h1 {
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	font-size: 100px;
+}
